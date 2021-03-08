@@ -21,7 +21,7 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForTesting = "YES"
+            buildForTesting = "NO"
             buildForRunning = "YES"
             buildForProfiling = "NO"
             buildForArchiving = "NO"
@@ -51,16 +51,6 @@
          </BuildableReference>
       </MacroExpansion>
       <Testables>
-         <TestableReference
-            skipped = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BA3CBE9019F7A93900CED4D5"
-               BuildableName = "ios-simple-objcTests.xctest"
-               BlueprintName = "ios-simple-objcTests"
-               ReferencedContainer = "container:ios-simple-objc.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
