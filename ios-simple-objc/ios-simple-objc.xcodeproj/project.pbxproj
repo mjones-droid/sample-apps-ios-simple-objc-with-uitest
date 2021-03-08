@@ -224,7 +224,7 @@
 					};
 					BA3CBE7419F7A93800CED4D5 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 72SA8V3WYL;
+						DevelopmentTeam = Y485PS8LRQ;
 						ProvisioningStyle = Automatic;
 					};
 					BA3CBE9019F7A93900CED4D5 = {
@@ -480,11 +480,11 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 72SA8V3WYL;
+				DEVELOPMENT_TEAM = Y485PS8LRQ;
 				INFOPLIST_FILE = "ios-simple-objc/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "io.bitrise.ios-simple-objc";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.bitrise.ios-simple-objc-030821";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -499,11 +499,11 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 72SA8V3WYL;
+				DEVELOPMENT_TEAM = Y485PS8LRQ;
 				INFOPLIST_FILE = "ios-simple-objc/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "io.bitrise.ios-simple-objc";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.bitrise.ios-simple-objc-030821";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
